@@ -1,19 +1,11 @@
 <?php
-/*require_once('data.inc.php');
-require_once('functions.inc.php');
-
-if(isset($_POST['payload'])) upload_payload($_POST['payload']);*/
-
-?>
-
-<?php
 /**
  * Simple PHP Git deploy script
  *
  * Automatically deploy the code using PHP and Git.
  *
  * @version 1.3.1
- * @link    https://github.com/markomarkovic/simple-php-git-deploy/
+ * @link  https://github.com/476552238li/deploy
  */
 
 // =========================================[ Configuration start ]===
